@@ -1,0 +1,11 @@
+__pycache__/
+datasets/
+
+*.pt
+*.pth
+*.onnx
+
+*.jpg
+*.jpeg
+*.png
+*.txt

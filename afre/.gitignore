@@ -1,0 +1,6 @@
+archive/
+f_run/
+latest_run/
+venv/
+yolov8n.pt
+exdark/
